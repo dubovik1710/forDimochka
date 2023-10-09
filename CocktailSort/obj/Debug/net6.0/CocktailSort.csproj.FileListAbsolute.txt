@@ -1,0 +1,14 @@
+D:\py\c++\CocktailSort\bin\Debug\net6.0\CocktailSort.exe
+D:\py\c++\CocktailSort\bin\Debug\net6.0\CocktailSort.deps.json
+D:\py\c++\CocktailSort\bin\Debug\net6.0\CocktailSort.runtimeconfig.json
+D:\py\c++\CocktailSort\bin\Debug\net6.0\CocktailSort.dll
+D:\py\c++\CocktailSort\bin\Debug\net6.0\CocktailSort.pdb
+D:\py\c++\CocktailSort\obj\Debug\net6.0\CocktailSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\py\c++\CocktailSort\obj\Debug\net6.0\CocktailSort.AssemblyInfoInputs.cache
+D:\py\c++\CocktailSort\obj\Debug\net6.0\CocktailSort.AssemblyInfo.cs
+D:\py\c++\CocktailSort\obj\Debug\net6.0\CocktailSort.csproj.CoreCompileInputs.cache
+D:\py\c++\CocktailSort\obj\Debug\net6.0\CocktailSort.dll
+D:\py\c++\CocktailSort\obj\Debug\net6.0\refint\CocktailSort.dll
+D:\py\c++\CocktailSort\obj\Debug\net6.0\CocktailSort.pdb
+D:\py\c++\CocktailSort\obj\Debug\net6.0\CocktailSort.genruntimeconfig.cache
+D:\py\c++\CocktailSort\obj\Debug\net6.0\ref\CocktailSort.dll
