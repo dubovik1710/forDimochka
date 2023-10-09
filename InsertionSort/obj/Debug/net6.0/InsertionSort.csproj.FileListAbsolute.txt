@@ -1,0 +1,14 @@
+D:\py\c++\InsertionSort\bin\Debug\net6.0\InsertionSort.exe
+D:\py\c++\InsertionSort\bin\Debug\net6.0\InsertionSort.deps.json
+D:\py\c++\InsertionSort\bin\Debug\net6.0\InsertionSort.runtimeconfig.json
+D:\py\c++\InsertionSort\bin\Debug\net6.0\InsertionSort.dll
+D:\py\c++\InsertionSort\bin\Debug\net6.0\InsertionSort.pdb
+D:\py\c++\InsertionSort\obj\Debug\net6.0\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\py\c++\InsertionSort\obj\Debug\net6.0\InsertionSort.AssemblyInfoInputs.cache
+D:\py\c++\InsertionSort\obj\Debug\net6.0\InsertionSort.AssemblyInfo.cs
+D:\py\c++\InsertionSort\obj\Debug\net6.0\InsertionSort.csproj.CoreCompileInputs.cache
+D:\py\c++\InsertionSort\obj\Debug\net6.0\InsertionSort.dll
+D:\py\c++\InsertionSort\obj\Debug\net6.0\refint\InsertionSort.dll
+D:\py\c++\InsertionSort\obj\Debug\net6.0\InsertionSort.pdb
+D:\py\c++\InsertionSort\obj\Debug\net6.0\InsertionSort.genruntimeconfig.cache
+D:\py\c++\InsertionSort\obj\Debug\net6.0\ref\InsertionSort.dll

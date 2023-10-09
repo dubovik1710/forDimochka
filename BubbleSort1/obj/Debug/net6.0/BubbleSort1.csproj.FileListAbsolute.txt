@@ -1,0 +1,14 @@
+D:\py\c++\BubbleSort1\bin\Debug\net6.0\BubbleSort1.exe
+D:\py\c++\BubbleSort1\bin\Debug\net6.0\BubbleSort1.deps.json
+D:\py\c++\BubbleSort1\bin\Debug\net6.0\BubbleSort1.runtimeconfig.json
+D:\py\c++\BubbleSort1\bin\Debug\net6.0\BubbleSort1.dll
+D:\py\c++\BubbleSort1\bin\Debug\net6.0\BubbleSort1.pdb
+D:\py\c++\BubbleSort1\obj\Debug\net6.0\BubbleSort1.GeneratedMSBuildEditorConfig.editorconfig
+D:\py\c++\BubbleSort1\obj\Debug\net6.0\BubbleSort1.AssemblyInfoInputs.cache
+D:\py\c++\BubbleSort1\obj\Debug\net6.0\BubbleSort1.AssemblyInfo.cs
+D:\py\c++\BubbleSort1\obj\Debug\net6.0\BubbleSort1.csproj.CoreCompileInputs.cache
+D:\py\c++\BubbleSort1\obj\Debug\net6.0\BubbleSort1.dll
+D:\py\c++\BubbleSort1\obj\Debug\net6.0\refint\BubbleSort1.dll
+D:\py\c++\BubbleSort1\obj\Debug\net6.0\BubbleSort1.pdb
+D:\py\c++\BubbleSort1\obj\Debug\net6.0\BubbleSort1.genruntimeconfig.cache
+D:\py\c++\BubbleSort1\obj\Debug\net6.0\ref\BubbleSort1.dll
