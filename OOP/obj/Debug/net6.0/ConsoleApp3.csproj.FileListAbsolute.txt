@@ -1,0 +1,14 @@
+D:\py\c++\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.exe
+D:\py\c++\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.deps.json
+D:\py\c++\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.runtimeconfig.json
+D:\py\c++\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.dll
+D:\py\c++\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.pdb
+D:\py\c++\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\py\c++\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\py\c++\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfo.cs
+D:\py\c++\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\py\c++\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.dll
+D:\py\c++\ConsoleApp3\obj\Debug\net6.0\refint\ConsoleApp3.dll
+D:\py\c++\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.pdb
+D:\py\c++\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.genruntimeconfig.cache
+D:\py\c++\ConsoleApp3\obj\Debug\net6.0\ref\ConsoleApp3.dll
